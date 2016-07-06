@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/tasklist":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/tasklist","hostpath":"/Users/framgia/WorkSpace/Laravel/TaskList","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/framgia/WorkSpace/Laravel/TaskList","disabled":false}}}
